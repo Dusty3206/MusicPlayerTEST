@@ -1,0 +1,26 @@
+{
+  "artists": {
+    "Artist Name": {
+      "avatar": "./Music/Covers/artist-avatar.jpg",
+      "banner": "./Music/Covers/artist-banner.jpg",
+      "genre": "Hip-Hop",
+      "bio": "Short artist bio."
+    }
+  },
+  "albums": {
+    "Album Name": {
+      "artist": "Artist Name",
+      "year": "2024",
+      "cover": "./Music/Covers/album-cover.jpg"
+    }
+  },
+  "songs": [
+    {
+      "file": "Song Name - Artist Name.mp3",
+      "title": "Song Name",
+      "artist": "Artist Name",
+      "album": "Album Name",
+      "cover": "./Music/Covers/album-cover.jpg"
+    }
+  ]
+}

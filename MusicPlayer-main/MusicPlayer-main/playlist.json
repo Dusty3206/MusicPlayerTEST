@@ -1,0 +1,12 @@
+{
+  "playlists": [
+    {
+      "id": "all-songs",
+      "name": "All Songs",
+      "description": "Every track in the library.",
+      "cover": "",
+      "pinValue": "1",
+      "songs": []
+    }
+  ]
+}
